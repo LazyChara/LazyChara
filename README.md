@@ -8,18 +8,17 @@
 
 ---
 
-## 🚀 About Me
+## 关于我这个人
 
-I'm passionate about technology, especially web development!  
-As a student, I enjoy building and sharing interesting projects, exploring new tech stacks, and creating content on Bilibili.
+一个游戏痴，同时也是个喜欢'极限'的人
 
-- 🔗 I love open-source and collaboration
-- 🌟 Always learning and trying new things
-- 📝 Sharing coding tutorials, project demos, and tech life on B站
+- 我喜欢开源，但并不希望项目被作为他人盈利工具
+- 同时我也会学一学别的东西啦（）
+- 口才不怎么好，语文理解能力较差，反馈的时候明了一点好嘛
 
 ---
 
-## 🛠️ Tech Stack
+## 技术类
 
 - **Frontend:**  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
@@ -41,4 +40,4 @@ As a student, I enjoy building and sharing interesting projects, exploring new t
 
 ---
 
-> 💬 Feel free to reach out for collaboration, project ideas, or just to connect!
+> 💬 欢迎随时与我的工作邮箱进行联系，我尽量快速回复
