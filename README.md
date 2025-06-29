@@ -1,11 +1,9 @@
-# 👋 Hi, I'm LazyChara
+# 这里是LazyChara
 
-- 🎓 Student & Developer
-- 💻 Frontend: HTML, CSS, JavaScript, Vue, React
-- ☕ Backend: Java (Spring Boot, Servlet), basic Python
-- 🌱 Currently learning more about web full stack and cloud development
-- 📺 [My Bilibili Profile](https://space.bilibili.com/1994337933)
-- 📧 Contact: admin@onechara.eu.org
+一名学生，同时也喜欢捣鼓开发
+会一定的Java，web前端以及非常基础的python
+我的blbl频道[My Bilibili Profile](https://space.bilibili.com/1994337933)
+我的工作邮箱: admin@onechara.eu.org
 
 ---
 
