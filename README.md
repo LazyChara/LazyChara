@@ -2,7 +2,7 @@
 
 - 一名学生，同时也喜欢捣鼓开发
 - 会一定的Java，web前端以及非常基础的python
-- 我的工作邮箱: admin@onechara.eu.org ; admin@zly.qzz.io
+- 我的工作邮箱: admin@onechara.eu.org ; admin@zly.qzz.io(main主要使用)
 - 我的blbl频道[My Bilibili Profile](https://space.bilibili.com/1994337933)
 
 
