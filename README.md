@@ -38,6 +38,8 @@
 
 ![LazyChara's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyChara&show_icons=true&theme=radical)
 
+## Moe Counter!
+![LazyChara]https://count.getloli.com/@LazyChara?name=LazyChara&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0
 ---
 
 > 💬 欢迎随时与我的工作邮箱进行联系，我尽量快速回复
